@@ -1,0 +1,35 @@
+*{padding:0;margin:0}
+
+body{background:#95a5a6; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif}
+
+.container{background: #ecf0f1;width:1200px; margin:auto}
+h1{text-align:center;}
+
+/*MENU*/
+menu{
+	background: #3498db;
+	color: white;
+	font-size: 20px;}
+
+/*ARTICLE*/
+
+article p{
+	font-size:16px;
+}
+article img{float:right;}
+
+/*COPYRIGHT*/
+.copyright{
+	background: #3498db;
+	line-height: 50px;
+	color: white;
+	text-align:center;
+}
+.copyright p a{
+	text-decoration: none;
+	color: white;
+
+}
+.btn-default{
+	margin-bottom: 20px;
+}
